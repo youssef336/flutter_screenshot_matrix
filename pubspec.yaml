@@ -1,8 +1,7 @@
 name: flutter_screenshot_matrix
 description: >-
-  Screenshot every screen across devices x locales x themes x text scales in
-  plain `flutter test`, with real fonts, overflow detection, optional device
-  frames, golden comparison and a filterable HTML gallery.
+  Screenshot every screen across devices, locales, themes and text scales in
+  plain flutter test, with real fonts, overflow detection and an HTML gallery.
 version: 0.1.0
 repository: https://github.com/youssef336/flutter_screenshot_matrix
 issue_tracker: https://github.com/youssef336/flutter_screenshot_matrix/issues
