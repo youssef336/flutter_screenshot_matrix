@@ -1,5 +1,7 @@
 <p align="center"><a href="README.md">English</a></p>
 
+<p align="center"><img src="https://raw.githubusercontent.com/youssef336/flutter_screenshot_matrix/main/screenshots/banner.png" alt="flutter_screenshot_matrix banner" width="100%"></p>
+
 <h1 align="center">Flutter Screenshot Matrix</h1>
 
 <p align="center">
